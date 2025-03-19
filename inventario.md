@@ -3,4 +3,5 @@ Componenti
  -Processori
  -Schede Madri
 Periferiche
+ -Mouse
 Elettronica Padovana
